@@ -25,8 +25,7 @@ class BouncerServlet extends ScalatraServlet with ScalateSupport {
   }
 
   get("/auth") {
-    val authURL = authService.authURL
-    redirect(authURL)
+    redirect(authService.authURL)
   }
 
   get("/auth/callback") {
