@@ -1,0 +1,4 @@
+html, body { width:960px; margin:20px auto; padding:0; }
+body { font-family:helvetica,arial,sans-serif; }
+
+h1 { border-bottom:1px solid black; }

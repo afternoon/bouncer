@@ -1,0 +1,7 @@
+Bouncer
+=======
+
+- A tool for managing GitHub repository access within an organisation.
+- A demonstration of using
+  [Scribe](https://github.com/fernandezpablo85/scribe-java) and
+  [Scalatra](http://www.scalatra.org/stable/book/).
